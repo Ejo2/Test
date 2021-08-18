@@ -6,6 +6,7 @@ public class Main {
         Psj.printPsj();
         Sjihye.SjihyePrint();
         Hsj.HsjPrint();
+        System.out.println("yesol");
     }
     
 }
