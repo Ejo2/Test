@@ -1,6 +1,6 @@
 public class Sjihye{
 	
-	public void SjihyePrint() {
+	public static void SjihyePrint() {
 		System.out.println("신지혜");
 	}
 
