@@ -1,5 +1,8 @@
 public class Hsj {
-    public void HsjPrint() {
+    
+    static void HsjPrint() {
         System.out.println("황서정");
     }
+    
+    
 }
