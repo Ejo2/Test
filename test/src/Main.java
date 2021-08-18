@@ -16,6 +16,7 @@ N장의 카드에 써져 있는 숫자가 주어졌을 때, M을 넘지 않으�
 public class Main {
     public static void main(String[] args) {
         Psj.printPsj();
+        Sjihye.SjihyePrint();
     }
     
 }
