@@ -6,6 +6,8 @@ public class Main {
         Psj.printPsj();
         Sjihye.SjihyePrint();
         Hsj.HsjPrint();
+        Kbm.printKbm();
+        
     }
     
 }

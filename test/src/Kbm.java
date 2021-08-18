@@ -1,4 +1,3 @@
-package Test;
 
 public class Kbm {
 	static void printKbm() {
