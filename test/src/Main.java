@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
         Psj.printPsj();
         Sjihye.SjihyePrint();
-        Sjihye.SjihyePrint();
-	Hsj.HsjPrint();
-
+	    Hsj.HsjPrint();
+        Kbm.printKbm();
+        
         System.out.println("yesol");
 
 
