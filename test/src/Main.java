@@ -18,7 +18,7 @@ public class Main {
         System.out.println("엄지 깃 브랜치 테스트");
         System.out.println("서정 깃 브랜치 테스트");
         System.out.println("병민 깃 브랜치 테스트");
-
+        System.out.println("상준 깃 브랜치 테스트");
     }
     
 }
