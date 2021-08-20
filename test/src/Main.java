@@ -10,6 +10,8 @@ public class Main {
         
         System.out.println("yesol");
         System.out.println("umji");
+
+        System.out.println("yesol 2 ");
     }
     
 }
