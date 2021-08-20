@@ -14,6 +14,8 @@ public class Main {
         System.out.println("yesol 2 ");
 
         System.out.println("yesol git branch test");
+
+        System.out.println("엄지 깃 브랜치 테스트");
     }
     
 }
