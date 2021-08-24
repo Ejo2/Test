@@ -4,7 +4,7 @@
 public class Main {
     public static void main(String[] args) {
         Psj.printPsj();
-        Sjihye.SjihyePrint();
+        Sjihye.PrintJh(); //20210824 지혜 깃-이클립스 테스트
 	    Hsj.HsjPrint();
         Kbm.printKbm();
         
