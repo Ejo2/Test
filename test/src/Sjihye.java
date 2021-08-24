@@ -1,9 +1,8 @@
 public class Sjihye{
 	
-	public static void SjihyePrint() {
+	public static void PrintJh() {
 		System.out.println("신지혜");
-//이렇게 수정을 한다면...!...!!
-		//수정
+//20210824 이클립스-깃 연동 Test
 	}
 
 }
